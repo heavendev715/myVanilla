@@ -1,6 +1,6 @@
-# 20+ Web Projects With Vanilla JavaScript
+# 20+ Web Projects With Vanilla JavaScript(Antonii)
 
-This is the main repository for all of the projects in the course.
+I hope this projects will help biginners.
 
 - [Course Link](https://www.traversymedia.com/20-Vanilla-JavaScript-Projects)
 - [Get Course On Udemy](https://www.udemy.com/course/web-projects-with-vanilla-javascript/?referralCode=F9B7C7FED834F91ADE75)
@@ -27,6 +27,3 @@ This is the main repository for all of the projects in the course.
 | 18  |     [New Year Countdown](https://github.com/bradtraversy/vanillawebprojects/tree/master/new-year-countdown)   | [Live Demo](https://vanillawebprojects.com/projects/new-year-countdown/)  |
 | 19  | [Speak Number Guessing Game](https://github.com/bradtraversy/vanillawebprojects/tree/master/speak-number-guess) | [Live Demo](https://vanillawebprojects.com/projects/speak-number-guess/)  |
 | 20  | [Product Filtering UI](https://github.com/bradtraversy/vanillawebprojects/tree/master/product-filtering) | [Live Demo](https://vanillawebprojects.com/projects/product-filtering/)  |
-
-
-NOTE ON PULL REQUESTS: All of these projects are part of the course. While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes so that the code stays inline with the course
